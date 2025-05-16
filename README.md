@@ -148,4 +148,7 @@ The primary AI feature implemented is the **AI Schedule Generator**, located in 
 *   **Error Handling:** While some basic error handling is in place (e.g., for AI flow calls), comprehensive error management across the application is not fully implemented.
 
 This README provides a snapshot of the "Alrwad University Lite" prototype.
+link of project:
+
+https://9000-firebase-studio-1747333510552.cluster-axf5tvtfjjfekvhwxwkkkzsk2y.cloudworkstations.dev
 ```
